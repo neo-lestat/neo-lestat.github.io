@@ -10,7 +10,7 @@ author:
   picture: 
   twitter_username: neo_lestat
 github_username: neo-lestat
-logo:
+logo: /assets/icons/basically-basic-logo-light.svg
 remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins: # previously gems
   - jekyll-feed

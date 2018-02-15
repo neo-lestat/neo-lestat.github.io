@@ -1,10 +1,8 @@
 ---
-layout: home
-paginate: true
-alt_title: "Simple spring security facelets taglib"
-image: /assets/images/amine-ounnas-180287.jpg
-introduction: |
-  simple-spring-security-facelets-taglib --- **simple-spring-security-facelets-taglib**, with a few enhancements thrown in for good measure:
+layout: about
+title: "Simple spring security facelets taglib"
+---
+simple-spring-security-facelets-taglib --- **simple-spring-security-facelets-taglib**, with a few enhancements thrown in for good measure:
 
   - Evaluate hasRole and hasAuthority  
   - Works with role - privilege schema

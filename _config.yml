@@ -1,14 +1,14 @@
 lang: en-US
 title: Neo site
-email: 
+email: nmtzodev@gmail.com
 description: 
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:	
   name: neo-lestat
-  twitter: 
+  twitter: neo_lestat
   picture: 
-  twitter_username: neo_lestat
+twitter_username: neo_lestat
 github_username: neo-lestat
 logo: /assets/icons/basically-basic-logo-light.svg
 remote_theme: mmistakes/jekyll-theme-basically-basic

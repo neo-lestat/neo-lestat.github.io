@@ -1,1 +1,4 @@
-hello world!
+---
+layout: home
+---
+test index md

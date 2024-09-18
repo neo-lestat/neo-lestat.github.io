@@ -1,13 +1,13 @@
 lang: en-US
 title: Neo site
 email: nmtzodev@gmail.com
-description: 
+description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:	
+author:
   name: neo-lestat
   twitter: neo_lestat
-  picture: 
+  picture:
 twitter_username: neo_lestat
 github_username: neo-lestat
 logo: /assets/icons/basically-basic-logo-light.svg
@@ -17,6 +17,8 @@ plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+
+# Jekyll Feed
 feed:
   path: atom.xml
 
@@ -36,12 +38,25 @@ paginate_path: /page:num/
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # _posts
   - scope:
       path: "_posts"
       type: posts
+    values:
+      layout: post
+      read_time: true
+  # _recipes
+  - scope:
+      path: "_projects"
+      type: projects
     values:
       layout: post
       read_time: true

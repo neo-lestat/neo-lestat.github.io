@@ -1,0 +1,415 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Noe Martinez",
+    "label": "Sr Java developer",
+    "image": "",
+    "email": "noe.mtz.o@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "I have been working for 15 years with java technologies. I got several java certifications and I really like to learn news technologies",
+    "location": {
+      "countryCode": "ES",
+      "address": "Barcelona, Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "noe-martinez",
+        "url": "https://www.linkedin.com/in/noe-martinez/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "eDreams ODIGEO",
+      "position": "Java Senior Developer",
+      "startDate": "2017-05-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "I worked in the e-commerce platform of the travel agency, after some time I was moved to a\nnew team to continue the development of the user search for flights as a different service\nfrom the main platform after some time I worked in the refactor to simplify the flow to  make the flight searches. I worked on a new proposal with micronaut as an alternative to the current jee stack and also helped with the proposal with spring-boot. I managed to test micronaut in production (just 10% traffic). I  worked with microservices, rest, docker, google cloud, kafka, jboss, java, micronaut, spring-boot",
+      "url": "https://www.linkedin.com/company/edreamsodigeo/",
+      "location": "Barcelona y alrededores, España"
+    },
+    {
+      "name": "Globant",
+      "position": "Senior Java Developer",
+      "startDate": "2014-07-31",
+      "endDate": "2017-05-31",
+      "highlights": [],
+      "summary": "My experience includes working with java collection framework to improve the code in a web application; also I have worked with Threads and ExecutorServices to improve the performance of the application. Use of git as version control.\nI worked with a java web application with several java frameworks as spring, hibernate, freemarker, and the javascript frameworks backbone and highcharts, I added new functionality to this application. I developed a process to send email notifications. I needed to learn about Oracle business intelligence 11 because the application reads data through it. I developed REST services with jersey and spring. I worked with an international team (Spain, Colombia, Argentina, Mexico). I developed some process using cloud computing (rackspace queue, rackspace file storage, and gloogle cloud storage). I worked with redis and spring to cache some resources.",
+      "url": "https://www.linkedin.com/company/globant/",
+      "location": "Ciudad de México y alrededores, México"
+    },
+    {
+      "name": "Winter",
+      "position": "Senior Java Developer",
+      "startDate": "2012-09-30",
+      "endDate": "2014-07-31",
+      "highlights": [],
+      "summary": "I have worked in web applications with primefaces, mybatis and spring with oracle database; I developed a materialized view in oracle to improve some reports of the application. I improve some reports made with birt (eclipse report tool). I'm working in web application with primefaces, jsf2, hibernate, ms sqlserver, tomcat",
+      "url": ""
+    },
+    {
+      "name": "Grupo Tradeco",
+      "position": "Senior Java Developer",
+      "startDate": "2011-06-30",
+      "endDate": "2012-08-31",
+      "highlights": [],
+      "summary": "I developed a process to pre - calculate a payment payroll of employees also some reports of the payments. I worked on implementing sso (single sing on) with jasig-cas and different applications on java and php, I changed projects to maven structure and also I developed an archetype to create the structure of new projects. I participated in the development of a module for management and authentication of users.",
+      "url": "https://www.linkedin.com/company/grupo-tradeco/"
+    },
+    {
+      "name": "Strategysys",
+      "position": "Senior Java Developer",
+      "startDate": "2010-10-31",
+      "endDate": "2011-06-30",
+      "highlights": [],
+      "summary": "I had to improve the code for processing large xml file, update database in batch mode with huge information through internal framework for batch processing and I did research about spring batch as an alternative. I developed some reports with jasperreports, also I reviewed and fixed some minor problems in web applications with springmvc and wicket, I configured some jms in weblogic and ssl with apache and glassfish.",
+      "url": ""
+    },
+    {
+      "name": "Aspel",
+      "position": "Java Developer",
+      "startDate": "2008-05-31",
+      "endDate": "2010-09-30",
+      "highlights": [],
+      "summary": "I fixed code according new client requirements; also I developed new modules for the system.  Solved different problems in the application through implementing design patterns, in a swing application I implemented  singleton  pattern in the connection to the data base, I developed one applet to print files that are generated in the server side and the clients print it in their own printers",
+      "url": ""
+    },
+    {
+      "name": "Interconsoulting Solutions",
+      "position": "Java Programmer",
+      "startDate": "2007-08-31",
+      "endDate": "2008-05-31",
+      "highlights": [],
+      "summary": "I fixed code in web applications and I developed new functionality in some projects, I started to work with java web applications and some frameworks such as hibernate, struts and spring",
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Benemérita Universidad Autónoma de Puebla",
+      "area": "Ciencias de la computación",
+      "studyType": "Bachelor's degree",
+      "startDate": "2002-12-31",
+      "endDate": "2007-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Oracle Certified Professional: Java SE 11 Developer",
+      "issuer": "Oracle",
+      "startDate": "2021-04-30",
+      "url": "https://www.credly.com/badges/dac5ea8d-fe21-4ac1-af89-015716555de3"
+    },
+    {
+      "name": "Oracle Certified Expert, Java EE 6 Web Component Developer",
+      "issuer": "Oracle",
+      "startDate": "2014-09-30",
+      "url": "https://www.youracclaim.com/badges/40e36516-5093-460b-9c0e-5106a4cc0cb4/linked_in_profile"
+    },
+    {
+      "name": "Oracle Certified Professional, Java SE 7 Programmer",
+      "issuer": "Oracle",
+      "startDate": "2012-05-31",
+      "url": "https://www.youracclaim.com/badges/f506f456-f418-461d-b6c1-cd9ff89b397f/linked_in_profile"
+    },
+    {
+      "name": "Oracle Certified Expert, Java EE 6 Enterprise JavaBeans Developer",
+      "issuer": "Oracle",
+      "startDate": "2012-02-28",
+      "url": "https://www.youracclaim.com/badges/dec7f1ed-a85b-4cc3-87d2-5db61363b795/linked_in_profile"
+    },
+    {
+      "name": "Sun Certification Web Component Develop 1.5EE",
+      "issuer": "Sun Microsystems",
+      "startDate": "2010-01-31"
+    },
+    {
+      "name": "Sun Certification Java Programmer 1.5SE",
+      "issuer": "Sun Microsystems",
+      "startDate": "2007-11-30"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Representational State Transfer (REST)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "micronaut",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring Boot",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jira",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java Certified Programmer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java Enterprise Edition",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hibernate",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Eclipse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JPA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Maven2",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jasper Reports",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSF",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaServer Pages",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java EE",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Primefaces",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MyBatis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Aplicaciones Web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "XML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Glassfish",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Maven",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Backbone.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring Batch",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gradle",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Go",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "BIRT",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Servicios web de RESTful",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "EJB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tomcat",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NetBeans",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java Message Service",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery UI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Desarrollo de software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java Servlet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AJAX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JBoss Application Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache Ant",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Patrones de diseño",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "Spanish"
+    },
+    {
+      "fluency": "Full Professional",
+      "language": "Ingles"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Soccer",
+      "keywords": [
+        "sport",
+        "soccer"
+      ]
+    },
+    {
+    "name": "Photography",
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

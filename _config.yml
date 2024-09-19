@@ -1,5 +1,5 @@
 lang: en-US
-title: Neo site
+title: Noe Mtz
 email: nmtzodev@gmail.com
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -10,7 +10,8 @@ author:
   picture:
 twitter_username: neo_lestat
 github_username: neo-lestat
-logo: /assets/icons/basically-basic-logo-light.svg
+#logo: /assets/icons/basically-basic-logo-light.svg
+logo: /assets/icons/java-logo.svg
 remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins: # previously gems
   - jekyll-feed
